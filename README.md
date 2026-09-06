@@ -111,7 +111,7 @@ The repository also includes an independent [asynchronous Voice Report extension
 
 I:ON began as a team capstone project. I contributed to application architecture, AWS deployment design, cross-component integration, and Android development.
 
-The `team-project-final` tag marks the end of the original team-project state. The original repository is available at [Juhyuns0n/ION](https://github.com/Juhyuns0n/ION.git).
+The `team-project-final` tag marks the end of the original team-project state. The original repository is available at [kylasson/ION-Team](https://github.com/kylasson/ION-Team).
 
 ## Documentation
 
