@@ -34,7 +34,7 @@ Onboarding, the parenting-style questionnaire, home summaries, progress, rewards
 
 ## Demo
 
-A demo of the original team project is available in the public [demo video](https://github.com/Juhyuns0n/ION/releases/tag/demo).
+A demo of the original team project is available in the public [demo video](https://github.com/kylasson/ION/releases/tag/demo).
 
 ## Architecture
 
